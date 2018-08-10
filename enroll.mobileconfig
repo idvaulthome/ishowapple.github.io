@@ -24,7 +24,7 @@
         <key>PayloadUUID</key>
         <string>D84C2DBF-2E70-4D91-A55A-4AB4D56C6E5A</string>
         <key>PayloadIdentifier</key>
-        <string>example.com</string>
+        <string>ishowapple.github.io</string>
         <key>PayloadDescription</key>
         <string>This allows you to get your UDID directly from your device without the need of a pc or itunes. This profile is 100% safe, but install at your own risk.</string>
         <key>PayloadType</key>
