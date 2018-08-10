@@ -5,7 +5,7 @@
         <key>PayloadContent</key>
         <dict>
             <key>URL</key>
-            <string>https://YOUR-DOMAIN.com/YOUR-PATH/done.php</string>
+            <string>https://ishowapple.github.io/done.php</string>
             <key>DeviceAttributes</key>
             <array>
             <string>DEVICE_NAME</string>
@@ -16,9 +16,9 @@
             </array>
         </dict>
         <key>PayloadOrganization</key>
-        <string>example</string>
+        <string>Applebetasco (hosted by ishowapple)</string>
         <key>PayloadDisplayName</key>
-        <string>Profile Service</string>
+        <string>UDID Fetcher</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
@@ -26,7 +26,7 @@
         <key>PayloadIdentifier</key>
         <string>example.com</string>
         <key>PayloadDescription</key>
-        <string>example</string>
+        <string>This allows you to get your UDID directly from your device without the need of a pc or itunes. This profile is 100% safe, but install at your own risk.</string>
         <key>PayloadType</key>
         <string>Profile Service</string>
     </dict>
