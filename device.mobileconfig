@@ -5,7 +5,7 @@
     <key>PayloadContent</key>
     <dict>
         <key>URL</key>
-        <string>http://hunk.com.mx/udid/show_detail.php</string>
+        <string>http://hunk.com.mx/udid/processes_data.php</string>
     <key>DeviceAttributes</key>
     <array>
         <string>UDID</string>
@@ -18,9 +18,9 @@
     </array>
 </dict>
 <key>PayloadOrganization</key>
-<string>applebetasco (hosted by ishowapple)</string>
+<string>My Organization</string>
 <key>PayloadDisplayName</key>
-<string>Get UDID</string>
+<string>Device Information (UDID)</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>PayloadUUID</key>
@@ -28,7 +28,7 @@
 <key>PayloadIdentifier</key>
 <string>mx.com.hunk.getUDID</string>
 <key>PayloadDescription</key>
-<string>This profile allows you to get your UDID directly from your idevice without the need of a computer or iTunes.</string>
+<string>Knowing the UDID of my iOS device</string>
 <key>PayloadType</key>
 <string>Profile Service</string>
 </dict>
