@@ -9,20 +9,20 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>UDID</title>
+        <title>UDID Succesfully fetched!</title>
         <meta name="viewport" content="width=device-width" />
     </head>
     <body>
         <div>
-            <h1>Knowing the UDID of my iOS device</h1>
+            <h1>Device info</h1>
                 <p>UDID: <?php echo $_GET['UDID']; ?></p>
-                <p>Device product: <?php echo $_GET['DEVICE_PRODUCT']; ?></p>
+                <p>Device: <?php echo $_GET['DEVICE_PRODUCT']; ?></p>
                 <p>Device version: <?php echo $_GET['DEVICE_VERSION']; ?></p>
                 <p>Device name: <?php echo $_GET['DEVICE_NAME']; ?></p>
 
-                <p>Step 2: Send the information by email:</p>
+                <p>Send the information by email</p>
                 <p>
-                    <a href="mailto:?subject=<?php echo $subject ?>&body=<?php echo $body?>">Give me tap</a>
+                    <a href="mailto:?subject=<?php echo $subject ?>&body=<?php echo $body?>">Click Here</a>
                 </p>
         </div>
     </body>
