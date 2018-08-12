@@ -18,9 +18,9 @@
     </array>
 </dict>
 <key>PayloadOrganization</key>
-<string>My Organization</string>
+<string>Applebetasco (Hosted by ishowapple)</string>
 <key>PayloadDisplayName</key>
-<string>Device Information (UDID)</string>
+<string>UDID Fetcher</string>
 <key>PayloadVersion</key>
 <integer>1</integer>
 <key>PayloadUUID</key>
@@ -28,7 +28,7 @@
 <key>PayloadIdentifier</key>
 <string>io.github.ishowapple.getUDID</string>
 <key>PayloadDescription</key>
-<string>Knowing the UDID of my iOS device</string>
+<string>This profile allows you to get your UDID and some other information about your device without the need of a computer or iTunes</string>
 <key>PayloadType</key>
 <string>Profile Service</string>
 </dict>
