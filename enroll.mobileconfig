@@ -16,18 +16,18 @@
             </array>
         </dict>
         <key>PayloadOrganization</key>
-        <string>example</string>
+        <string>Ishowapple</string>
         <key>PayloadDisplayName</key>
-        <string>Profile Service</string>
+        <string>UDID Fetcher</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
         <string>D84C2DBF-2E70-4D91-A55A-4AB4D56C6E5A</string>
         <key>PayloadIdentifier</key>
-        <string>example.com</string>
+        <string>idvaultapp.com</string>
         <key>PayloadDescription</key>
-        <string>example</string>
+        <string>This profile allows you to get your UDID without a computer or iTunes</string>
         <key>PayloadType</key>
-        <string>Profile Service</string>
+        <string>UDID Fetcher</string>
     </dict>
 </plist>
