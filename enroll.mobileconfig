@@ -18,7 +18,7 @@
         <key>PayloadOrganization</key>
         <string>Ishowapple</string>
         <key>PayloadDisplayName</key>
-        <string>UDID Fetcher</string>
+        <string>Profile Service</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
