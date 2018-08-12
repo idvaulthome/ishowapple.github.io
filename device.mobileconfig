@@ -5,7 +5,7 @@
     <key>PayloadContent</key>
     <dict>
         <key>URL</key>
-        <string>http://hunk.com.mx/udid/processes_data.php</string>
+        <string>https://ishowapple.github.io/udid/processes_data.php</string>
     <key>DeviceAttributes</key>
     <array>
         <string>UDID</string>
@@ -26,7 +26,7 @@
 <key>PayloadUUID</key>
 <string>BDD0F593-5B98-47FF-A0A4-4B98E30CE451</string>
 <key>PayloadIdentifier</key>
-<string>mx.com.hunk.getUDID</string>
+<string>io.github.ishowapple.getUDID</string>
 <key>PayloadDescription</key>
 <string>Knowing the UDID of my iOS device</string>
 <key>PayloadType</key>
