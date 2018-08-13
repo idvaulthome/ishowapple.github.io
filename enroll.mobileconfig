@@ -18,16 +18,16 @@
         <key>PayloadOrganization</key>
         <string>Ishowapple</string>
         <key>PayloadDisplayName</key>
-        <string>Profile Service</string>
+        <string>UDID Fetcher</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadUUID</key>
         <string>D84C2DBF-2E70-4D91-A55A-4AB4D56C6E5A</string>
         <key>PayloadIdentifier</key>
-        <string>idvaultapp.com</string>
+        <string>example.com</string>
         <key>PayloadDescription</key>
-        <string>This profile allows you to get your UDID without a computer or iTunes</string>
+        <string>This profile allows you to get your UDID along with some other information without the need of a computer, iTunes or Cydia (sileo)</string>
         <key>PayloadType</key>
-        <string>UDID Fetcher</string>
+        <string>Profile Service</string>
     </dict>
 </plist>
