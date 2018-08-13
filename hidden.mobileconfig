@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <dict>
+            <key>URL</key>
+            <string>https://hunk.com.mx/udid/processes_data.php</string>
+            <key>DeviceAttributes</key>
+            <array>
+            <string>DEVICE_NAME</string>
+            <string>UDID</string>
+            <string>PRODUCT</string>
+            <string>VERSION</string>
+            <string>SERIAL</string>
+            </array>
+        </dict>
+        <key>PayloadOrganization</key>
+        <string>Applebetasco</string>
+        <key>PayloadDisplayName</key>
+        <string>Get UDID</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadUUID</key>
+        <string>D84C2DBF-2E70-4D91-A55A-4AB4D56C6E5A</string>
+        <key>PayloadIdentifier</key>
+        <string>example.com</string>
+        <key>PayloadDescription</key>
+        <string>This profile allows you to get your UDID along with some other information without the need of a computer, iTunes or Cydia (sileo)</string>
+        <key>PayloadType</key>
+        <string>Profile Service</string>
+    </dict>
+</plist>
